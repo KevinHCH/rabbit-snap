@@ -1,0 +1,10 @@
+[project]
+name = "fast-api-screenshot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "fastapi>=0.115.4",
+    "ruff>=0.7.2",
+]
